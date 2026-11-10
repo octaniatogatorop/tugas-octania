@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#fef2f2"/>
+  <circle cx="150" cy="110" r="72" fill="#ffffff" stroke="#fca5a5" stroke-width="4"/>
+  <circle cx="150" cy="110" r="50" fill="#ea580c"/>
+  <circle cx="138" cy="102" r="16" fill="#ffffff"/>
+  <circle cx="138" cy="102" r="8" fill="#facc15"/>
+  <text x="150" y="198" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#991b1b" text-anchor="middle">Nasi Goreng Hobas</text>
+</svg>

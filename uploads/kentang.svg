@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#fff7ed"/>
+  <circle cx="150" cy="110" r="72" fill="#fed7aa"/>
+  <rect x="125" y="60" width="10" height="55" rx="3" fill="#facc15"/>
+  <rect x="145" y="55" width="10" height="60" rx="3" fill="#eab308"/>
+  <rect x="165" y="62" width="10" height="53" rx="3" fill="#facc15"/>
+  <path d="M115 95 L185 95 L175 155 L125 155 Z" fill="#dc2626"/>
+  <text x="150" y="198" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9a3412" text-anchor="middle">French Fries Original</text>
+</svg>

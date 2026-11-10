@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#ffedd5"/>
+  <circle cx="150" cy="110" r="75" fill="#fed7aa"/>
+  <rect x="115" y="65" width="70" height="95" rx="10" fill="#292524"/>
+  <rect x="122" y="75" width="20" height="20" rx="4" fill="#ffffff" opacity="0.4"/>
+  <rect x="150" y="80" width="20" height="20" rx="4" fill="#ffffff" opacity="0.4"/>
+  <text x="150" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#431407" text-anchor="middle">Iced Americano</text>
+</svg>

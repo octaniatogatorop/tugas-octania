@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#dcfce7"/>
+  <circle cx="150" cy="110" r="75" fill="#bbf7d0"/>
+  <rect x="115" y="65" width="70" height="95" rx="10" fill="#15803d"/>
+  <rect x="115" y="65" width="70" height="28" rx="6" fill="#ffffff"/>
+  <text x="150" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d" text-anchor="middle">Matcha Latte</text>
+</svg>
